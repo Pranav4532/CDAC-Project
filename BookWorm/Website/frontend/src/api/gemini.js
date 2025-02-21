@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const GEMINI_API_KEY = "AIzaSyD_uZmp3_ZF_6yiqFQklbUMVyR6SlOBweI"; 
+const GEMINI_API_KEY = "Key"; 
 
 export const fetchAIDescription = async (title, author) => {
   try {
